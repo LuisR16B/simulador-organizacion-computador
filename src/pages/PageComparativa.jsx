@@ -61,7 +61,7 @@ export default function PageComparativa() {
       <div className="mb-8 text-center">
         <h2 className="text-3xl font-extrabold text-white">Evolución Tecnológica</h2>
         <p className="text-sm text-slate-400 mt-2 max-w-2xl mx-auto">
-          De los medios clásicos al almacenamiento moderno. Selecciona una comparación para revisar cómo evolucionaron la velocidad, capacidad y eficiencia[cite: 8].
+          De los medios clásicos al almacenamiento moderno. Selecciona una comparación para revisar cómo evolucionaron la velocidad, capacidad y eficiencia.
         </p>
       </div>
 
